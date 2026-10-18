@@ -1,0 +1,14 @@
+[ai]
+binding = "ai"
+
+[[d1_databases]]
+binding = "db"
+database_id = "b3a3e36d-32f5-4be6-92f6-e53c4ae7993e"
+
+[[kv_namespaces]]
+binding = "kv"
+id = "07388bb486b649d5954950703e8ebc95"
+
+[[r2_buckets]]
+binding = "r2"
+bucket_name = "gemsly-email"
