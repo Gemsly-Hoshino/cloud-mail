@@ -1,3 +1,6 @@
+# mail-worker/wrangler.toml
+name = 'gemsly-mail'
+
 [ai]
 binding = "ai"
 
